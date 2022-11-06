@@ -5,12 +5,9 @@ import Quiz from "./components/Quiz.vue";
 </script>
 
 <template>
-  <header>
-    
-    <div class="wrapper">
-      <Quiz />
-    </div>
-  </header>
+  <div class="wrapper">
+    <Quiz />
+  </div>
 </template>
 
 <style scoped>
@@ -64,6 +61,7 @@ nav a:first-of-type {
     display: flex;
     place-items: flex-start;
     flex-wrap: wrap;
+    width: 100%;
   }
 
   nav {
