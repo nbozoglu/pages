@@ -1,0 +1,85 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='https://www.sonicwall.com/wp-content/uploads/2018/11/us_phishingiq_2_q2.png'></img>",
+        "correct_answer": "PHISHING",
+        "incorrect_answers": [
+          "LEGITIMATE"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='https://www.sonicwall.com/wp-content/uploads/2018/11/us_phishingiq_2_q1.png'></img>",
+        "correct_answer": "LEGITIMATE",
+        "incorrect_answers": [
+          "PHISHING"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='https://www.sonicwall.com/wp-content/uploads/2018/11/us_phishingiq_2_q3.png'></img>",
+        "correct_answer": "PHISHING",
+        "incorrect_answers": [
+          "LEGITIMATE"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='http://cdn-02.independent.ie/incoming/article34508834.ece/b7725/AUTOCROP/w620/netflix%20phising.jpg'></img>",
+        "correct_answer": "PHISHING",
+        "incorrect_answers": [
+          "LEGITIMATE"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='https://s3-eu-west-1.amazonaws.com/transcendit-website-production/7brjw5z3fkf/original/FakeSpotifyEmail.png'></img>",
+        "correct_answer": "PHISHING",
+        "incorrect_answers": [
+          "LEGITIMATE"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='https://security.berkeley.edu/sites/default/files/styles/panopoly_image_original/public/paypal_phish_example.png?itok=UI5VHEgr&timestamp=1459449832'></img>",
+        "correct_answer": "PHISHING",
+        "incorrect_answers": [
+          "LEGITIMATE"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='https://www.wltribune.com/wp-content/uploads/2019/12/19713581_web1_191211-WLT-CanadaPostScam.jpg'></img>",
+        "correct_answer": "PHISHING",
+        "incorrect_answers": [
+          "LEGITIMATE"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "<img style='max-width: 100%;' src='https://1.bp.blogspot.com/-qzKQTqFT0n8/X_VbyKmJMFI/AAAAAAAADFI/KtP6eGpDoEwwevrT6bpEwgGk7I4-hIVdwCLcBGAsYHQ/s855/nueva-estafa-suplanta-amazon-2188263.jpg'></img>",
+        "correct_answer": "PHISHING",
+        "incorrect_answers": [
+          "LEGITIMATE"
+        ]
+      }
+    ]
+  }
